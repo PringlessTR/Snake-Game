@@ -9,4 +9,4 @@ Saving high scores to an XML file.
 Viewing high scores sorted in descending order.
 
 <br />
-  ![](https://github.com/PringlessTR/Snake-Game/blob/main/gif/1.gif) ![](https://github.com/PringlessTR/Snake-Game/blob/main/gif/image.png)
+  ![](/gif/1.gif) ![](/gif/image.png)
